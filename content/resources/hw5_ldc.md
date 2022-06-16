@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: This resource is a supporting file for the course.
-file: /courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/9356f355212e8a20a745cb6835c3d138_HW5_spring.idb
-file_type: application/octet-stream
+file: /courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/da1c5a96b597d1ff4b50bb222794da15_HW5_LDC.in
+file_type: text/plain
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
@@ -10,10 +10,8 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: ab138e96-f294-f0c1-d312-b820228458e7
 resourcetype: Other
-title: HW5_spring.idb
-uid: 9356f355-212e-8a20-a745-cb6835c3d138
-video_metadata:
-  youtube_id: null
+title: HW5_LDC.in
+uid: da1c5a96-b597-d1ff-4b50-bb222794da15
 ---
 This resource is a supporting file for the course.
 

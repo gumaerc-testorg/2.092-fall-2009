@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, topics, textbook, grades, finite element analysis
+  software, reading assignments, computer assignments, the term project, and additional
+  resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 915fe356-b93a-c648-7a0a-391ffd66cab4
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -67,7 +73,7 @@ We will use [ADINA](http://www.adina.com/index.shtml) for all finite element pro
 Reading Assignments
 -------------------
 
-The reading assignments will be given in each lecture and will refer to the textbook _Finite Element Procedures_. A list of readings by session is also available on the [Calendar]({{< baseurl >}}/pages/readings) page.
+The reading assignments will be given in each lecture and will refer to the textbook _Finite Element Procedures_. A list of readings by session is also available on the {{% resource_link a734a6c3-85ca-cb44-172a-911f95607838 "Calendar" %}} page.
 
 Computer Assignments
 --------------------
@@ -77,11 +83,11 @@ You will not be required to develop a computer program. However, some homework w
 Term Project
 ------------
 
-Every graduate student taking 2.093 is required to complete a term project; undergraduates taking 2.092 are not required to complete a project. Hence, the only difference between taking 2.093 (graduate students) and 2.092 (undergraduate students) is this requirement regarding the project. Further details about the project are given on the [Projects]({{< baseurl >}}/pages/projects) page.
+Every graduate student taking 2.093 is required to complete a term project; undergraduates taking 2.092 are not required to complete a project. Hence, the only difference between taking 2.093 (graduate students) and 2.092 (undergraduate students) is this requirement regarding the project. Further details about the project are given on the {{% resource_link 58c9775d-96a5-b439-f11c-72adff4df1f4 "Projects" %}} page.
 
 Additional Resources
 --------------------
 
-Prof. Bathe has recorded two video courses on the topics of [Linear Analysis](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/linear) and [Nonlinear Analysis](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear), now available from MIT OpenCourseWare. While these lectures do not correspond directly to the sequence of topics in 2.092/2.093, they can serve as a useful complement to the materials presented here.
+Prof. Bathe has recorded two video courses on the topics of [Linear Analysis](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/video_galleries/linear) and [Nonlinear Analysis](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/video_galleries/nonlinear), now available from MIT OpenCourseWare. While these lectures do not correspond directly to the sequence of topics in 2.092/2.093, they can serve as a useful complement to the materials presented here.
 
 You may also be interested in the course [_2.094 Finite Element Analysis of Solids and Fluids II_](/courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011).

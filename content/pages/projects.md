@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides information on the term project required of graduate
+  students taking the course and an example of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 58c9775d-96a5-b439-f11c-72adff4df1f4
+video_metadata:
+  youtube_id: null
 ---
 
 Term Project – Graduate Students Only
@@ -32,4 +36,4 @@ Student Work
 
 This final project report is presented as an example of student work in this class. All material is presented courtesy of the authors, and with their permission.
 
-"Frequency Response of Trees." ([PDF - 2.8MB]({{< baseurl >}}/resources/mit2_092f09_project1))
+"Frequency Response of Trees." ({{% resource_link cbeb6c94-7269-e01e-df95-cd85a57e8d81 "PDF - 2.8MB" %}})
