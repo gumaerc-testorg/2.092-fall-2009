@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, exams,
+  readings, and homework assignments for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a734a6c3-85ca-cb44-172a-911f95607838
+video_metadata:
+  youtube_id: null
 ---
 
 Readings are taken from the following text:
