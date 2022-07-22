@@ -4,6 +4,7 @@ description: New file Upload
 file: /courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/c6ba2b155ffbd0f52755939e2b1d2f33_MIT2_092F09_multiple.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 New file Upload
-

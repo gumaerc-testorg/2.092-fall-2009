@@ -5,6 +5,7 @@ file: /courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/da
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HW5_LDC.in
 uid: da1c5a96-b597-d1ff-4b50-bb222794da15
 ---
 This resource is a supporting file for the course.
-
