@@ -68,7 +68,7 @@ The student's course grade will be based on:
 Use of Finite Element Computer Program
 --------------------------------------
 
-We will use {{% resource_link "2aa57167-6f71-42a3-89c0-0b38858ea91c" "ADINA" %}} for all finite element program related homework and for the projects. Two special lectures, Sessions #8 and 9, will be given on the use of and modeling with ADINA for the analysis of solids and structures, fluid flows, i.e. CFD, and fluid flows with structural interactions, i.e. FSI. These lectures will prepare you to complete your homework assignments using ADINA and your project. Please see {{% resource_link "f18eb85d-85b0-4670-ac4a-ca60954c36ae" "this page" %}} for a list of alternative finite element analysis programs.
+We will use [ADINA](http://www.adina.com/index.shtml) for all finite element program related homework and for the projects. Two special lectures, Sessions #8 and 9, will be given on the use of and modeling with ADINA for the analysis of solids and structures, fluid flows, i.e. CFD, and fluid flows with structural interactions, i.e. FSI. These lectures will prepare you to complete your homework assignments using ADINA and your project. Please see [this page](http://en.wikipedia.org/wiki/List_of_finite_element_software_packages) for a list of alternative finite element analysis programs.
 
 Reading Assignments
 -------------------
