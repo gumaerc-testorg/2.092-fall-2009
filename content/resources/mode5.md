@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for the course.
 file: /courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/a3c6441322deecaa03385c1f8cc102a6_mode5.avi
+file_size: 2323456
 file_type: video/x-msvideo
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
