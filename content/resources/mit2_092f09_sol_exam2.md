@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/f8411fba8fa0c0a7b10f32cf3acca63c_MIT2_092F09_sol_exam2.pdf
+file: /ol-ocw-studio-app/courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/f8411fba8fa0c0a7b10f32cf3acca63c_MIT2_092F09_sol_exam2.pdf
 file_size: 88901
 file_type: application/pdf
 learning_resource_types:
