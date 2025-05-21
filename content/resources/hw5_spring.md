@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for the course.
-file: /ol-ocw-studio-app/courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/9356f355212e8a20a745cb6835c3d138_HW5_spring.idb
+file: /courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/9356f355212e8a20a745cb6835c3d138_HW5_spring.idb
 file_size: 815824
 file_type: application/octet-stream
 learning_resource_types:
