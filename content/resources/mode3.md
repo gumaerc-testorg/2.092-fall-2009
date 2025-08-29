@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for the course.
-file: /courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/36e26480c1e58be410f329affb92ddb4_mode3.avi
+file: /ol-ocw-studio-app/courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/36e26480c1e58be410f329affb92ddb4_mode3.avi
 file_size: 2317312
 file_type: video/x-msvideo
 learning_resource_types: []
